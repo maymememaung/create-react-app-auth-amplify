@@ -10,7 +10,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <AmplifySignOut />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
